@@ -18,7 +18,7 @@ Omg nooooooooooooooo
 > git config --global -e
 >
 
-## Hola mundo
+## Hola mundo cambio desde local
 
 
 > git remote -v
