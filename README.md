@@ -19,3 +19,6 @@ Omg nooooooooooooooo
 >
 
 ## Hola mundo
+
+
+> git remote -v
