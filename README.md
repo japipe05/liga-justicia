@@ -22,3 +22,5 @@ Omg nooooooooooooooo
 
 
 > git remote -v
+
+> git config pull.rebase true
