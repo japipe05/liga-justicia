@@ -18,16 +18,9 @@ Omg nooooooooooooooo
 > git config --global -e
 >
 
-<<<<<<< HEAD
 ## Hola mundo cambio desde local
 
 
 > git remote -v
 
 > git config pull.rebase true
-=======
-## Hola mundo desde la web
-
-
-> git remote -v
->>>>>>> refs/remotes/origin/main
