@@ -24,3 +24,6 @@ Omg nooooooooooooooo
 > git remote -v
 
 > git config pull.rebase true
+
+
+Modificando des del editor en la web
