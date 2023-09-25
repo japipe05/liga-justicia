@@ -27,3 +27,5 @@ Omg nooooooooooooooo
 
 
 Modificando des del editor en la web
+
+> git fetch
